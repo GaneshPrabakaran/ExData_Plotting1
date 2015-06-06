@@ -3,7 +3,6 @@
 #
 #Plotting Assignment 4 for Exploratory Data Analysis
 
-setwd("D:/R/Exploratory Analysis/week1")
 
 require("readr")
 require("data.table")
